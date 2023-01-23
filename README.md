@@ -1,2 +1,2 @@
 # Linear-Search-Sequential-Search
-Pencarian data di dalam array menggunakan metode linier search
+Pencarian data tidak terurut di dalam array menggunakan metode linier search
